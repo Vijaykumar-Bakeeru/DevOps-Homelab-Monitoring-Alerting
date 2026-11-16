@@ -24,7 +24,7 @@ This episode is intentionally bare‑bones: a single Flask service (`app.py`) th
 If you’re serious about DevOps and want hands-on incident practice, CI/CD practice packs, or a 1:1 session, book here:
 https://topmate.io/learnwithdevopsengineer
 
-
+## this is cmds
 docker-compose up --build
 IP:5000
 docker logs demo-app
